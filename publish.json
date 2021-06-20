@@ -1,6 +1,7 @@
 {
 "title": "Personal Income: Per Capita Income for U.S. Counties in 2019",
 "info": "The project aims to create a map which shows per capita income for counties in U.S. in 2019", 
+"coordinates": [34.18, -98.94],
 "author": "Erdal Erol", 
 "link": "https://newmapsplus.github.io/projects/" 
 }
