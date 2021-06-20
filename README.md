@@ -11,6 +11,6 @@ Areas with higher levels of income are shaded darker.
 * Newyork (Newyork), Pitkin (Colorado) and Bristol Bay (Alaska) are the other highest-income counties.
 		
 ## Data and Tools Used in the Project
-* Per capita income is obtained from U.S. Bureau of Economic Analysis.[r2h]: https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=6
+* Per capita income is obtained from U.S. Bureau of Economic Analysis.
 * Geographical data sourced from Natural Earth.
 * QGIS 3.16 is used to create the map.
