@@ -1,6 +1,6 @@
 # Personal Income: Per Capita Income for U.S. Counties 2019
 
-The project aims to create a map which shows per capita income for counties in U.S. 
+The project aims to create a map which shows per capita income for counties in U.S. in 2019. 
 
 * Per capita income is a measure of the amount of money earned per person in a county. 
 It can be interpreted as the average per-person income and is a useful indicator for the standard of living and quality of life of the population.
