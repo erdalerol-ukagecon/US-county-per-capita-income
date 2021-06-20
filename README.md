@@ -12,5 +12,5 @@ Areas with higher levels of income are shaded darker.
 		
 ## Data and Tools Used in the Project
 * Per capita income is obtained from U.S. [Bureau of Economic Analysis](https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=6)
-* Geographical data sourced from Natural Earth.
+* Geographical data sourced from [Natural Earth](https://www.naturalearthdata.com/downloads/).
 * QGIS 3.16 is used to create the map.
