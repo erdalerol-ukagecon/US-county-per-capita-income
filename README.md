@@ -9,6 +9,6 @@ Areas with higher levels of income are shaded darker.
 Teton county in Wyoming has the highest average incomes per capita of any county in the United States, at $229,825. This is partly attributed to the high incomes of Jackson Hole residents, where property owners include Bill Gates. Newyork (Newyork), Pitkin (Colorado) and Bristol Bay (Alaska) are the other highest-income counties.
 		
 ## Data and Tools Used in the Project
-	Per capita income is obtained from U.S. Bureau of Economic Analysis</a> 
-	Geographical data sourced fromNatural Earth.
-	QGIS 3.16 is used to create the map.
+Per capita income is obtained from U.S. Bureau of Economic Analysis</a> 
+Geographical data sourced fromNatural Earth.
+QGIS 3.16 is used to create the map.
